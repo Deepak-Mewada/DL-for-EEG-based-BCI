@@ -1,9 +1,9 @@
 # DL-for-EEG-based-BCI
 
-###Chapter1: Introduction
+### Chapter1: Introduction
 
-###Chapter1 
-####Background on BCI
+### Chapter1 
+#### Background on BCI
 BCi System translate human brain patterns into message or commands for trans,mission to the outer world(lotte,2018).
 Generalized form of BCI: BCI system enables bidirectrional communication between the human brain and the computer.
 
@@ -27,7 +27,7 @@ Feature Engineering: FE refers to the process of extracting discriminating featu
                         -May be inaccurate                        
  Hence the need for automatic extraction of distinguishable feature?               
 
-#####1.2: Why Deep learning?
+##### 1.2: Why Deep learning?
 Challanges of BCI Sys:
     1.Currupted: brain signals are easily currepted by various bilogical(e.g. eye blick,muscles artifects,fatigue and concentration level) and environmental artifects(e.g noise).
        As a result of thois brain signals face the challange of low SNR -->Need to learn informative representation from currupte brain signals.
