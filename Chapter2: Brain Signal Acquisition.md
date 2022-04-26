@@ -1,1 +1,1 @@
-# Chapter2: Brain Signal Acquisition.md
+# Chapter2: Brain Signal Acquisition
