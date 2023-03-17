@@ -6,3 +6,6 @@
 
 2. *Multi-Task Learning for Commercial Brain Computer Interfaces*  
 https://ieeexplore.ieee.org/document/8251271
+
+3. Contrastive Representation Learning for Electroencephalogram Classification
+https://proceedings.mlr.press/v136/mohsenvand20a.html PMLR MIT
